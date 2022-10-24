@@ -77,6 +77,11 @@ namespace SearchAlgoritma_105
                 ch = char.Parse(Console.ReadLine());
             } while ((ch == 'y') || (ch == 'Y'));
         }
+
+        public void LinearSearch()
+        {
+
+        }
         static void Main(string[] args)
         {
         }
