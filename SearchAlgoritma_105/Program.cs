@@ -27,6 +27,15 @@ namespace SearchAlgoritma_105
                 else
                     Console.WriteLine("\nArray should have minimum 1 and maximum 20 elements.\n");
             }
+            //Accept array elements
+            Console.WriteLine("");
+            Console.WriteLine("==========================");
+            Console.WriteLine("Enter Array Elements");
+            Console.WriteLine("==========================");
+            for(i=0; i<n;i++)
+            {
+
+            }
         }
         static void Main(string[] args)
         {
