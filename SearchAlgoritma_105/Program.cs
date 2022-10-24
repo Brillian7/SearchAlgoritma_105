@@ -39,6 +39,11 @@ namespace SearchAlgoritma_105
                 arr[i] = Int32.Parse(s1);
             }
         }
+
+        public void BinarySearch()
+        {
+           
+        }
         static void Main(string[] args)
         {
         }
